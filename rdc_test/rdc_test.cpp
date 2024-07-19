@@ -1,8 +1,6 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
-
 #include <stdio.h>
 
-#include <rdc/rdc.h> //  @manual=//third-party/rocm:librdc
+#include <rdc/rdc.h>
 #include <unistd.h>
 
 #include <map>
